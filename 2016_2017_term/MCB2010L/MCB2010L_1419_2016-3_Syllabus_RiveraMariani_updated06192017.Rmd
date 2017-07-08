@@ -1,0 +1,194 @@
+---
+title: 'Syllabus: Microbiology Laboratory, Summer Term (2016-3)'
+author: 'Prof: Felix E. Rivera-Mariani, PhD'
+date: "MCB2010L(section 1419), Web-Enhanced (with Blackboard Learn)"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+"*Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.*"
+--Pele
+
+
+# I. General Course Information
+- **Term**: 2016-3
+- **Class location**: Room A-204
+- **Class meeting time**: Tuesdays, from 5:40PM - 10:00PM
+- **Professor**: Dr. Felix E. Rivera-Mariani
+- **Office room**: Room A-204
+- **Office hours**: before class or by appointment (at any other time or day, subject to availability)
+- **email**: friveram@mdc.edu
+
+# II. Textbook
+(print or ebook): Leboffe, M.J. and B. E. Pierce. 2015. *Microbiology Laboratory Theory & Applications*. 4th Ed. Morton Publishing Company, Inc. Englewood, CO. (ISBN 978-0-86582-830-9).  
+
+# III. Rationale of the Course
+To provide a hands-on learning experience of the different approaches used in the laboratory to study, enumerate, and classify microorganisms. 
+
+# IV. Learning Objectives 
+By the end of the course, students will be able to:
+
+A.	Implement correct nomenclature and writing of scientific names
+B.	Discriminate between the functions of the different parts of a compound microscope
+C.	Carry out staining protocols to study morphological properties of bacteria
+D.	Classify microorganisms using microscopy and staining techniques 
+E.	Implement proper aseptic techniques to avoid and limit cross contamination
+F.	Carry out pure culture techniques to isolate bacteria from mixed cultures
+G.	Perform and interpret biochemical tests to identify bacteria 
+H.	Design/carry out experiments to evaluate the effects of physical forces on bacterial growth
+I.	Design/carry out experiments to evaluate the effects of chemicals on bacterial growth
+J.	Carry out serial dilutions and plating techniques to enumerate bacteria
+K.	Carry out pipetting techniques in qualitative and quantitative experiments
+L.	Analyze and interpret data (i.e. series of results) gathered from lab experiments 
+M.	Infer from immunological results to identify bacteria and determine ABO blood types 
+
+# V. Course Materials
+A.	Through Blackboard learn (http://mdc.blackboard.com), you will have access to the following:
+
+1. Syllabus
+2. Professor's credentials
+3. Pre-Lab Reading assignments
+4. Pre-Lab Short Videos
+5. Lab Reports
+6. Supplemental learning materials
+
+B. **Textbook**
+
+1. Leboffe, M.J. and B. E. Pierce. 2015. *Microbiology Laboratory Theory & Applications*. 4th Ed. Morton Publishing Company, Inc. Englewood, CO. (ISBN 978-0-86582-830-9). 
+
+2. **Note**: The textbook is needed, but feel free to **rent** (search online for renting options for the textbook) or **borrow it from someone**: *just make sure you have access to the textbool*. Also, *older version may work as well.*
+
+C. Required materials:
+
+1.	Bound Notebook (*we must record what we do [to be able to repeat it] and record results from experiments*)
+2.	Sharpie fine-tip pen (*we must lable everything to limit errors and accidents*)
+4.	Long sleeve Lab coat (*won't be able to allow you in the lab*)
+5.	Safety goggles (*must be worn if you use contact lenses*)
+
+D. **Reef-Polling^TM^** account through one of the following:
+
+1. For Apple-based equipment, use the following link: (https://itunes.apple.com/us/app/reef-polling-by-i-clicker/id899690067?mt=8)
+2. For Android-based equipments, use the following link: (https://play.google.com/store/apps/details?id=com.mnv.reef&hl=en)
+3. An additional option would be to use the app through the web browser: (https://app.reef-education.com/#/login).
+
+**Note**: The application is **needed**. After 14 days trials, you must obtain a paid subscription to access the application when used in-class. This applications will also be used to record attendance. 
+
+# VI. Methods of Instructions
+A. **Pre-Lab Reading assignments and Short Videos** 
+
+1. Will always expose you to a new topic (e.g. terminology, concepts, techniques, etc) prior to discussing the topic in class. Therefore, we must complete an online Reading Assignment before we cover a new topic. 
+2. Questions in Pre-Lab Reading assignments/Short Videos count for grade (refer to Graded Items). 
+3. Pre-Lab Reading Assignments/Short Videos **will be available** on Blackboard Learn (http://mdc.blackboard.com) every Tuesday at 10:00PM.
+4. Questions in Pre-Lab Reading Assignments/Short Videos **must be completed by Tuesdays at 4:00PM**((you'll have one week, starting from the previous Tuesday at 10:00PM, to complete the assignment). 
+
+B. **Group work** 
+
+1. Facilitate the discussion and peer-teaching of biological terms, concepts, processes, methods, scientific data, among others.
+2. In some instances, will provide in-class bonus points opportunities.
+
+C. **Weekly quizzes** 
+
+1. Weekly Quizzes will keep you studying and help you (and the professor) identify the areas that you may be struggling with. 
+2. Quizzes are semi-cumulative (integrate 1 or 2 from prior topics) to help you connect new knowledge to previous knowledge. 
+3. Quizzes count for grade (see to Graded Items), and will only contain 6 to 7 questions in different formats. 
+4. Quizzes will be administered the first 20 minutes of each Tuesday (except on days where there is an exam). Once completed, they will be briefly discussed in class.
+
+D. **Exams**
+
+1. Two 100 points exams (midterm and final exam) will be administrated. The final exam will include in-class practical activities.
+2. Their corresponding dates are listed on the tentative schedule (syllabus's last page). 
+3. No scantrons are needed because the professor will provide written feedback on the exams. 
+4. Exams are cumulative: the practical questions in the final exam will include topics covered throughout the semester.
+
+# VII. Academic Integrity
+
+Each student is expected to maintain a high level of integrity and abide by the procedure 4074 of the Miami-Dade College Student Rights and Responsibility Handbook. Any work submitted by a student in the course for academic credit will be the student's own work. For the purpose of this course, collaboration is allowed in the following instances: a) in-class group work, b) case studies discussions, c) or when stated by the professor. Nevertheless, each student must submit their individual work unless indicated otherwise by the professor. D. Avoid at all costs copying and pasting the information from your classmates' response or from any other sources. **The penalty for violation of this Code can include 0 on an assignment, failure of the course and/or notifying the corresponding University authorities for disciplinary action.** Any form of **plagiarism** will constitute Academic Dishonesty, and points won't be earned during any form of this fault. **Make sure you understand what constitute plagiarism and how to avoid it.**
+Any other form of Academic Dishonesty listed in the Miami-Dade College Student Rights and Responsibility Handbook will not be accepted during in the course. 
+
+# VIII. Attendance
+Attendance at each class sessions parallels with your learning in the course. The course requires the input of time and effort in order to learn and be proficient in the learning objectives stated earlier in the syllabus. In addition, 20 easy attendance points will be awarded to everyone at the beginning. Note that, as stated in the Graded Items section (found in Grading Scales),  10% of the total grade will be your attendance. For each unexcused absence, unfortunately, I'll have to deduct 0.5 point. In the event of an absence, the student will be allowed to make up work if the absence results from one of the following:
+
+A. Official campus activities (as designated by MDC)
+B. Family or personal emergencies (as designated by  MDC)
+C. Medical reasons (discussed with the instructor)
+D. Work-related reasons (discuss with the instructor)
+E. Important notes
+
+**Importante Notes about Attendance**:
+- Make-up exams are allowed only if your excuse meets any of the four requirements above.
+- Make-up for quizzes are not permitted.
+- **With three unexcused absences**, I won't be able to keep your name in the course's roster.
+
+# IX. Late Policy
+Unless arrangement have been made prior to the due date or have a valid absence excuse (as stated in section VIII of this syllabus), I won't be able to award full grade on Late Assignments (**the final grade for any late assignment will be 30% less**). 
+
+# X. Accomodations for Students with disabilties
+In compliance with the Miami-Dade College and the Student Rights and Responsibility Handbook policy and equal access laws, I more than available to discuss any necessary academic accommodations that may be required for the student with disabilities. Requests for academic accommodations are to be made during the first week of the term, except for unusual circumstances, so arrangements can be made. Students are encouraged to contact the Student Services to verify their eligibility for appropriate accommodations.
+
+# XI. Inclusive Statement
+Members (student, faculty, administrators) of the Miami-Dade College community represent a diversity of backgrounds and perspectives. In this course, and as a member of this community, I am a strong supporter of diversity and its benefits. Therefore, to maintain an adequate learning and diverse environment students in this course are strongly encouraged to:
+
+A.	share their unique beliefs, experiences, and values
+B.	be open to the opinions and views of others 
+C.	honor your colleagues' uniqueness
+D.	appreciate the unique opportunity we have to learn from each other
+E.	value each other's opinions and communicate in a respectful manner
+F.	keep confidential discussions of personal and professional nature
+G.	take advantage of this opportunity to share ways in an inclusive environment
+
+**Every student must maintain, at all times, respectful manners and actitudes.**
+
+# XII. Grading Scales
+A. Graded Items
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Item <- c("Quizzes", "Attendance", "Reading Assignments/Short videos", "Lab Notebook","Reef Polling questions", "Midterm Exam", "Final Exam")
+Percentage <- c("10%", "10%", "10%","5%", "5%", "30%", "30%")
+
+
+grading_items <- data.frame(Item, Percentage)
+names(grading_items) <- c("Assessment", "Percentage of Total Grade")
+library(pander)
+pander(grading_items)
+```
+
+- **Quizzes**: There will be 9 quizzes: at the end of the course, the lowest two will be dropped (quizzes with zeros due to absences won't be dropped).
+- **Attendance**: Everyone starts with 20 points of attendance. Deductions will only be applied to unexcused absences (0.5 points per unexcused absence). 
+- **Readling Assignments/Short videos**: Everyone starts with 30 points. Every Reading Assignment/Short Videos will be accompanied with 10 questions. To avoid 0.5 point of deduction, we must answer correctly 7 out of 10 or 70% of the questions (in cases where there are less than 10 questions).
+- **Lab Notebook**: We must document everything we do in the lab. Instructions on how to correctly annotate in the Lab Notebook will be discussed on the first day of class. Remember, only **bound notebooks** can be accepted. 
+- **Reef Polling**: During each class section, we'll have approximately 2 to 3 polling questions: in these questions, feel free to discuss with your classmates. 
+- **Exams**: There will be two exams of 100 points each: only the final exam will have a practical session to be graded. 
+
+B. Grading Scale
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Grade <- c("A", "B", "C", "D", "F")
+Percentage <-c("100 - 90%", "89.9 - 80%", "79.9 - 70.0%", "69.9 - 60.0%", "Below 60.0%")
+
+grading_scale <- data.frame (Grade, Percentage)
+names(grading_scale) <- c("Letter Grade", "Percentage")
+
+pander(grading_scale)
+```
+
+
+# XIII. Incomplete Grades and Withdrawls
+**Incomplete (I)** grades will be posted only in consultation with the student and professor, and only when extenuating circumstances will prevent the student to complete the requirements of the course. At least one-half of the course must have been completed with a C or better grades. It is important that the incomplete (I) be completed within the time frame agreed between the student and the professor. Unfortunately, if not completed within the agreed time frame, the incomplete must be submitted as an F.
+
+**Withdrawals**: The professor is not entitled to withdraw a student from the course: it is the students' duty to evaluate and monitor how he/she is doing in the course. Knowing your status in the course will be important in the case you determine it is necessary to withdraw from the course. The deadline to withdraw (W) from the course March 16th, 2017. Keep in mind that a "W" grade will be permanent in your grade transcripts, and constitute an attempt for the course. 
+
+# XIV. Tentative Course Schedule
+**Note**: The tentative course schedule may change at the discretion of the professor
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(readxl)
+schedule <- read_excel("C:/Users/Felix/Dropbox/Teaching/1_Miami-Dade College/3_MCB2010L_2016-3/Section1419_Tuesday/MCB2010L_1419_Syllabus_2016-3_schedule_06192017.xlsx")
+
+schedule$Date <- as.character(schedule$Date)
+
+library(stringr)
+
+schedule$Date <- str_replace(schedule$Date, "2017-", "")
+
+library(knitr)
+kable(schedule)
+```
+
