@@ -1,0 +1,160 @@
+---
+title: 'Syllabus: General Education Biology (section 1852)'
+author: "Prof: Felix E. Rivera-Mariani, PhD"
+date: "BSC1005(section 1852), Web-Enhanced"
+output: pdf_document
+---
+
+"*Nobody is born intelligent: intelligence feeds from strong effort and desire to learn*"
+--Anonymous
+
+
+# I. General Course Information
+- **Term**: 2016-2
+- **Class location**: Room 2307
+- **Class meeting time**: Mon, Wed, Fri @ 9:00AM - 9:50AM
+- **Professor**: Dr. Felix E. Rivera-Mariani
+- **Office room**: room 237
+- **Office hours**: before class time or by appointment
+- **email**: friveram@mdc.edu
+
+# II. Textbook
+(print or ebook): Reece J., Taylor M., Simon E, and Dickey J. 2012. Campbell Biology: Concepts & Connections. 7th edition. Benjamin Cummings. ISBN 978-0321696816
+
+# III. Rationale of the Course
+To introduce students to the main biological concepts that abound in our continuous inquiry to understand life. With the concepts covered, students will have an introductory understanding of molecular biology, genetics, biochemistry, cellular biology, evolution and other topics that help us understand how biosciences explain the interactions between living organisms and the environment. In addition, real-life and scientific scenarios will be presented to learn the way biology is scientifically practiced, and how biology affects our daily lives. 
+
+# IV. Learning Objectives 
+By the end of the course, students will be able to:
+
+A.	Summarize the scientific method and how it is applied in biosciences
+B.	Illustrate examples of the scientific method in the study of living organisms
+C.	Describe the main characteristics of living organisms
+D.	Differentiate between and organize the different levels of hierarchy of living organisms
+E.	Define and exemplify the laws that apply to energy and matter
+F.	Differentiate between atoms, elements, compounds, and molecules
+G.	Recognize the importance of water for living organisms and the ecosystem
+H.	Define and differentiate between carbohydrates, lipids, nucleic acids, and proteins
+I.	Integrate the different roles of biological molecules into living organisms
+J.	List and describe the different sub-cellular organelles
+K.	Integrate the functions of sub-cellular organelles in living organisms
+L.	Describe the mode of transport of ions, compounds, and molecules within cells
+M.	Describe and compare between cellular respiration and photosynthesis
+N.	Summarize and differentiate between the different stages of the cell cycle
+O.	Recognize between DNA replication, transcription, and translation
+P.	Exemplify the transfer of genetic information
+Q.	Describe and exemplify the evolutionary theories
+R.	Deconstruct the interactions between the environment and living organisms within the ecosystems
+
+# V. Course Materials
+
+A. All materials, links, videos, among others will be available in http://mdc.blackboard.com.
+
+B. **Textbook**: Reece J., Taylor M., Simon E, and Dickey J. 2017. Campbell Biology: Concepts & Connections. 7^th^ edition. Benjamin Cummings. ISBN 9780132492539.
+    
+**Note**: The textbook is needed, but feel free to **rent** (search online for renting options for the textbook) or **borrow it from someone** 
+
+C. **ToHat^TM^**  
+    
+For Apple-based equipment, use the following link: https://itunes.apple.com/us/app/top-hat/id674069291 
+For Android-base equipment, use the following link: https://play.google.com/store/apps/details?id=com.tophat.android.app 
+
+D. **Reef-Polling^TM^** account through one of the following:
+
+For Apple-based equipment, use the folloowing link: https://itunes.apple.com/us/app/reef-polling-by-i-clicker/id899690067?mt=8
+For Android-based equipments, use the following link: https://play.google.com/store/apps/details?id=com.mnv.reef&hl=en
+An additinoal option would be to use the app through the web broswer @ https://app.reef-education.com/#/login.
+
+# VI. Methods of Instructions
+A. **Reading assignments** will always expose you to a new topic (e.g. terminology, concepts, theories, etc. prior to meeting in the class. These questions will also guide you to 1) read with a purpose (preparing for you for class), and 2) engage you in spaced practice (i.e. allowing some forgetting to settle in for learning to be effortful). These Pre-Lab reading assignments count for a grade (see Grading Scales).  
+
+B. **Group work** will facilitate the discussion and peer-teaching of biological terms, concepts, processes, methods, scientific data, among others.  
+
+C. **TopHat** will facilitate your active participation in the classroom. You will be able to view the lecture in real-time in your smartphone, table, or laptop. Through your smartphone, tablet, or laptop, you will be able to submit answers to practice questions posted by the professor. 
+
+D. **Weekly quizzes** will keep you studying and help you identify (and the professor as well) the areas that you may be struggling with. These quizzes are cumulative to help you integrate information. 
+
+# VII. Academic Integrity
+Each student is expected to maintain a high level of integrity and abide by the procedure 4074 of the Miami-Dade College Student Rights and Responsibility Handbook. Any work submitted by a student in the course for academic credit will be the student's own work. For the purpose of this course, collaboration is allowed in the following instances: in-class group work, case studies discussions, or when stated by the professor. Nevertheless, each student must submit their individual work unless indicated otherwise by the instructor. Avoid at all costs copying and pasting the information from your classmates' response or from any other sources. **The penalty for violation of this Code can include 0 on an assignment, failure of the course and/or notifying the corresponding University authorities for disciplinary action.**
+
+Any form of **plagiarism** will constitute Academic Dishonesty, and points won't be earned during any form of this fault. **Make sure you understand what constitute plagiarism and how to avoid it.**
+
+Any other form of Academic Dishonesty listed in the Miami-Dade College Student Rights and Responsibility Handbook will not be accepted during in the course. 
+
+# VIII. Attendance
+Attendance at each class sessions parallels with your learning in the course. The course requires the input of time and effort in order to learn and be proficient in the learning objectives stated earlier in the syllabus. In addition, 20 easy points for good attendance will be provided towards your final grade. For each unexcused absence, unfortunately, I'll have to deduct 1 point. In the event of an absence, the student will be allowed to make up work if the absence results from one of the following:
+
+A.	Official campus activities (as designated by MDC)
+B.	Family or personal emergencies (as designated by  MDC)
+C.	Medical reasons (discussed with the instructor)
+D.	Work-related reasons (discuss with the instructor)
+
+## Important notes
+- Make-up exams are allowed only if your excuse meets any of the four requirements above.
+- Make-up for quizzes are not permitted.
+- With three unexcused absences, I won't be able to keep you on the class roster. 
+
+# IX. Late Policy
+Unless arrangement have been made prior to the due date or have a valid absence excuse (as stated in the Attendance section of this syllabus), I won't be able to award full grade on Late Assignments (**the final grade for any late assignment will be 30% less**). 
+
+# X. Accomodations for Students with disabilties
+In compliance with the Miami-Dade College and the Student Rights and Responsibility Handbook policy and equal access laws, I more than available to discuss any necessary academic accommodations that may be required for the student with disabilities. Requests for academic accommodations are to be made during the first week of the term, except for unusual circumstances, so arrangements can be made. Students are encouraged to contact the Student Services to verify their eligibility for appropriate accommodations.
+
+# XI. Inclusive Statement
+Members (student, faculty, administrators) of the Miami-Dade College community represent a diversity of backgrounds and perspectives. In this course, and as a member of this community, I am a strong supporter of diversity and its benefits. Therefore, to maintain an adequate learning and diverse environment students in this course are strongly encouraged to:
+
+A.	share their unique beliefs, experiences, and values
+B.	be open to the opinions and views of others 
+C.	honor your colleagues' uniqueness
+D.	appreciate the unique opportunity we have to learn from each other
+E.	value each other's opinions and communicate in a respectful manner
+F.	keep confidential discussions of personal and professional nature
+G.	take advantage of this opportunity to share ways in an inclusive environment
+H.	must maintain at all times a respectful environment
+
+# XII. Grading Scales
+A. Graded Items (total points = 480 pts)
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Item <- c("Quizzes (on Fridays)", "Attendance", "Reading Assignments", "In-class questions (TopHat)", "1st Exam", "2nd Exam", "3rd Exam")
+Points <- c(100, 20, 30, 30, 100, 100, 100)
+
+
+grading_items <- data.frame(Item, Points)
+library(pander)
+pander(grading_items)
+```
+
+B. Grading Scale
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Grade <- c("A", "B", "C", "D", "F")
+Percentage <-c("100 - 90%", "89.9 - 80%", "79.9 - 70.0%", "69.9 - 60.0%", "Below 60.0%")
+Points_Acumulated <- c("432", "384", "336", "288", "Below 288")
+
+grading_scale <- data.frame (Grade, Percentage, Points_Acumulated)
+names(grading_scale) <- c("Grade", "Percentage", "Points Accumulated")
+
+pander(grading_scale)
+```
+
+C. **Reading Assingments** will be available in Blackboard Learn (http://mdc.blackboard.com) on Mondays at (9:50AM) and their deadline will always be 8:00AM on Wednesdays unless otherwise stated. A new set Reading Assignments will be available every Monday at 9:50AM. 
+
+D. **Exams**: Three 100 points exams will be administrated, and their corresponding dates are listed on the tentative schedule of the last page of this syllabus. No scantrons are needed. Exams are semi-cumulative (exam 2 will contain material from exam1, and exam 3 will contain material from exam 2).
+
+**There are no make-ups for Exams unless the absence meets the requirements of the Attendance sections of this syllabus**.
+
+E. **Quizzes**: During the first 20 minutes of each Friday's meeting, semi-cumulative quizzes will be administered. These quizzes will rehearse your knowledge with effortful learning through open-ended questions. They will also provide valuable information on how and what you are learning. 
+
+# XIII. Incomplete Grades and Withdrawls
+**Incomplete (I)** grades will be posted only in consultation with the student and professor, and only when extenuating circumstances will prevent the student to complete the requirements of the course. At least one-half of the course must have been completed with a C or better grades. It is important that the incomplete (I) be completed within the timeframe agreed between the student and the professor. Unfortunately, if not completed within the agreed time frame, the incomplete must be submitted as an F.
+
+**Withdrawals**: The professor is not entitled to withdraw a student from the course: it is the students' duty to evaluate and monitor how he/she is doing in the course. Knowing your status in the course will be important in the case you determine it is necessary to withdraw from the course. The deadline to withdraw (W) from the course March 16th, 2017. Keep in mind that a "W" grade will be permanent in your grade transcripts, and constitute an attempt for the course. 
+
+# XIV. Tentative Course Schedule
+**Note**: The tentative course schedule may change at the discretion of the professor
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(xlsx)
+schedule <- read.xlsx("C:/Users/Felix/Dropbox/Teaching/1_Miami-Dade College/1_BSC1005_2016-2/BSC1005_Syllabus_2016-2_schedule_updated020617.xlsx", 1, endRow = 51)
+
+pander(schedule)
+```
+
