@@ -6,4 +6,7 @@ Syllabi of recentl taught courses can also be found [here](http://friveram.com/s
 
 Find syllabi for the:
 
-a) [2016-2017 academic year](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term)
+a) [General Education Biology, BSC1005, for the academic year 2016-2017](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term/BSC1005)
+b) [Upper Division Microbiology, MCB3023, for the academic year 2016-2017](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term/MCB3023)
+c) [Upper Division Microbiology Laboratory, MCB3023L, for the academic year 2016-2017](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term/MCB3023L)
+d) [Lower Division Microbiolog Laboratory, MCB2010L, for the academic year 2016-2017](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term/MCB2010L)
