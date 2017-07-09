@@ -6,4 +6,4 @@ Syllabi of recentl taught courses can also be found [here](http://friveram.com/s
 
 Find syllabi for the:
 
-a) [Summer Term, 2016-2017 academic year](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term)
+a) [2016-2017 academic year](https://github.com/friveramariani/teaching_syllabi/tree/master/2016_2017_term)
